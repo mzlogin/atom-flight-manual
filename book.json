@@ -6,13 +6,9 @@
         }
     },
     "plugins": [
-        "disqus",
         "github"
     ],
     "pluginsConfig": {
-        "disqus": {
-            "shortName": "mzlogin"
-        },
         "github": {
             "url": "https://github.com/mzlogin/atom-flight-manual"
         }
